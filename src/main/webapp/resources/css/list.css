@@ -1,0 +1,39 @@
+.book_sort {
+    display: ruby-text;
+    height: 20px;
+    /*border: 1px solid black;*/
+}
+
+.book_sort p {
+    margin-right: 40px;
+
+}
+
+.first_section {
+    /*border: 1px solid black;*/
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.first_section .product {
+    margin: 20px;
+}
+
+.first_section .product .picture {
+    border: 1px solid blue;
+}
+
+.first_section .product .picture img {
+    width: 170px; height: 200px;
+
+}
+
+.first_section .product .sentence {
+    border: 1px solid red;
+}
+
+.first_section .product .sentence p {
+    text-align: center;
+    height: 10px;
+}
+
