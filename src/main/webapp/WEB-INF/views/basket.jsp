@@ -21,7 +21,7 @@
         <th>주문</th>
         <tr>
             <td><input type="checkbox" class="check"></td>
-            <td><img src="/image/book.jpg" alt=""></td>
+            <td><img src="/resources/image/book.jpg" alt=""></td>
             <td>불변의 법칙</td>
             <td>6</td>
             <td>22,500원</td>
