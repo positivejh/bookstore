@@ -1,0 +1,19 @@
+img{
+    height: 580px;
+    border: 1px solid #b0b0b0;
+}
+
+.addBook div input{
+    width: 700px;
+    height: 70px;
+}
+
+.addBook div textarea{
+    width: 700px;
+    height: 150px;
+}
+
+button{
+    width: 100px;
+    float: right;
+}

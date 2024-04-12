@@ -1,0 +1,68 @@
+.all{
+    /*border: 1px solid black;*/
+}
+
+
+#test{
+    /*border:1px solid blue;*/
+}
+
+#test2{
+    /*border:1px solid blue;*/
+}
+
+#test3{
+    /*border:1px solid blue;*/
+    /*width: 1400px;*/
+    /*align-self: flex-start;*/
+}
+
+
+
+
+div img{
+    width: 300px;
+    height: 400px;
+    border: 1px solid #e0eae6;
+}
+
+.btnDiv button{
+    width: 200px;
+    height: 40px;
+}
+
+.detail_bar1{
+    width: 200px;
+    height: 40px;
+    color: white;
+    background: #198754;
+    border-radius: 17px;
+}
+
+
+.detail_bar2{
+    width: 200px;
+    height: 40px;
+    color: white;
+    background: #198754;
+    border-radius: 17px;
+}
+
+.detail_bar1:hover{
+    color: white;
+    background: #006b42;
+    cursor: pointer;
+}
+
+.detail_bar2:hover{
+    color: white;
+    background: #006b42;
+    cursor: pointer;
+}
+
+.book_content{
+    height: 30%;
+    color: black;
+    background: #e0eae6;
+    border-radius: 5px;
+}
