@@ -1,0 +1,52 @@
+.container .title {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+.container div textarea {
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.container .button {
+    text-align: right;
+    margin-top: 30px;
+}
+
+.container .answer-title {
+    margin-top: 20px;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.container .answer {
+    background: #cdced2;
+    height: 30%;
+}
+
+.container .answer .answer-content {
+    display: flex;
+}
+
+.container .answer i {
+    margin-top: 20px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.container .answer p {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.container .answer .answer-input textarea {
+    height: 50%;
+}
+
+.container .answer .answer-input button {
+    float: right;
+    margin-top: 10px;
+}
