@@ -27,6 +27,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:3.0.3'
 	implementation "org.apache.tomcat.embed:tomcat-embed-jasper"
+	implementation 'org.springframework.boot:spring-boot-devtools'
 	// https://mvnrepository.com/artifact/org.mariadb.jdbc/mariadb-java-client
 	implementation 'org.mariadb.jdbc:mariadb-java-client:3.3.3'
 	implementation 'jakarta.servlet:jakarta.servlet-api:6.0.0' //스프링부트 3.0 이상
